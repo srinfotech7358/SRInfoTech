@@ -1,0 +1,7 @@
+pipeline{
+
+steps{
+
+step(develoepr1)
+}
+}
